@@ -2,7 +2,7 @@
 PyGame program written to count down to the next session of the British Columbia Youth Parliament
 
 <p align="right">
-  <img style="padding:0 15px" src="BCYP-Demo.jpg" height="400" align="right" hspace="30" vspace="30">
+  <img style="padding:0 15px" src="BCYP-Demo.jpg" height="500" align="right" hspace="20" vspace="20">
 </p>
 
 ### Prerequisites
