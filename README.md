@@ -1,8 +1,8 @@
 # BCYP-Countdown
 PyGame program written to count down to the next session of the British Columbia Youth Parliament
 
-<p align="center">
-  <img style="padding:0 15px" src="BCYP-Demo.jpg" height="400" align="right" hspace="30" vspace="30"><img src="BCYP-Demo.jpg" height="300">
+<p align="right">
+  <img style="padding:0 15px" src="BCYP-Demo.jpg" height="400" align="right" hspace="30" vspace="30">
 </p>
 
 ### Prerequisites
